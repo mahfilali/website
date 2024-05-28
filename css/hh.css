@@ -151,4 +151,8 @@ span.overlay.active {
     header nav.menu {
         display: none;
     }
+    .bgimg img{
+        width: 100%;
+        height: 700px;
+    }
 }
